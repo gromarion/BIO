@@ -1,0 +1,1 @@
+perl Ex1.pl ebola.gb Genbank sequence.fa p
