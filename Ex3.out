@@ -1,8 +1,8 @@
 Pattern: EBOLAVIRUS
-------------------------------------------------
-- Definition: LOW QUALITY PROTEIN: spike glycoprotein [Zaire ebolavirus] >gi|465411|sp|Q05320.1|VGP_EBOZM RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor [Ebola virus - Mayinga, Zaire, 1976] >gi|11761750|gb|AAG40168.1|AF272001_5 surface glycoprotein GP [Zaire ebolavirus] >gi|290392|gb|AAB81004.1| glycoprotein [Zaire ebolavirus] >gi|1041205|gb|AAC54887.1| virion spike glycoprotein [Zaire ebolavirus] >gi|4262350|gb|AAD14585.1| virion spike glycoprotein precursor [Ebola virus - Mayinga, Zaire, 1976] >gi|161652997|gb|ABX75367.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|566573377|gb|AHC70246.1| GP1,2 [Zaire ebolavirus] >gi|692112634|gb|AIR94008.1| virion spike glycoprotein precursor [Zaire ebolavirus]
-- Accession: NP_066246
-- Fasta sequence: >gi|10313995|ref|NP_066246.1| LOW QUALITY PROTEIN: spike glycoprotein [Zaire ebolavirus]
+________________________________________________
+ * Definition: LOW QUALITY PROTEIN: spike glycoprotein [Zaire ebolavirus] >gi|465411|sp|Q05320.1|VGP_EBOZM RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor [Ebola virus - Mayinga, Zaire, 1976] >gi|11761750|gb|AAG40168.1|AF272001_5 surface glycoprotein GP [Zaire ebolavirus] >gi|290392|gb|AAB81004.1| glycoprotein [Zaire ebolavirus] >gi|1041205|gb|AAC54887.1| virion spike glycoprotein [Zaire ebolavirus] >gi|4262350|gb|AAD14585.1| virion spike glycoprotein precursor [Ebola virus - Mayinga, Zaire, 1976] >gi|161652997|gb|ABX75367.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|566573377|gb|AHC70246.1| GP1,2 [Zaire ebolavirus] >gi|692112634|gb|AIR94008.1| virion spike glycoprotein precursor [Zaire ebolavirus]
+ * Accession: NP_066246
+ * Fasta sequence: >gi|10313995|ref|NP_066246.1| LOW QUALITY PROTEIN: spike glycoprotein [Zaire ebolavirus]
 MGVTGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -13,10 +13,10 @@ PSATTAAGPPKAENTNTSKSTDFLDPATTTSPQNHSETAGNNNTHHQDTGEESASSGKLGLITNTIAGVA
 GLITGGRRTRREAIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYIEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: surface glycoprotein GP [Zaire ebolavirus] >gi|436409343|gb|AGB56749.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|436409443|gb|AGB56839.1| virion spike glycoprotein precursor [Zaire ebolavirus]
-- Accession: AAN37507
-- Fasta sequence: >gi|23630486|gb|AAN37507.1| surface glycoprotein GP [Zaire ebolavirus]
+________________________________________________
+ * Definition: surface glycoprotein GP [Zaire ebolavirus] >gi|436409343|gb|AGB56749.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|436409443|gb|AGB56839.1| virion spike glycoprotein precursor [Zaire ebolavirus]
+ * Accession: AAN37507
+ * Fasta sequence: >gi|23630486|gb|AAN37507.1| surface glycoprotein GP [Zaire ebolavirus]
 MGVTGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -27,10 +27,10 @@ PSATTAAGPPKAENTNTSKSTDFLDPATTTSPQNHSETAGNNNTHHQDTGEESASSGKLGLITNTIAGVA
 GLITGGRRTRREAIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYTEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: surface glycoprotein GP precursor [Zaire ebolavirus]
-- Accession: AAM76034
-- Fasta sequence: >gi|21702651|gb|AAM76034.1| surface glycoprotein GP precursor [Zaire ebolavirus]
+________________________________________________
+ * Definition: surface glycoprotein GP precursor [Zaire ebolavirus]
+ * Accession: AAM76034
+ * Fasta sequence: >gi|21702651|gb|AAM76034.1| surface glycoprotein GP precursor [Zaire ebolavirus]
 MGVTGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRPVGLNL
 EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -41,10 +41,10 @@ PSATTAAGPPKAENTNTSKSTDFLDPATTTSPQNHSETAGNNNTHHQDTGEESASSGKLGLITNTIAGVA
 GLITGGRRTRREAIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYTEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor [Ebola virus - Eckron (Zaire, 1976)] >gi|1753171|gb|AAC57992.1| virion spike glycoprotein [Zaire ebolavirus]
-- Accession: P87671
-- Fasta sequence: >gi|8479505|sp|P87671.1|VGP_EBOEC RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor
+________________________________________________
+ * Definition: RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor [Ebola virus - Eckron (Zaire, 1976)] >gi|1753171|gb|AAC57992.1| virion spike glycoprotein [Zaire ebolavirus]
+ * Accession: P87671
+ * Fasta sequence: >gi|8479505|sp|P87671.1|VGP_EBOEC RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor
 MGVTGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVNDVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -55,10 +55,10 @@ PSATTAAGPPKAENTNTSKSTDFLDPATTTSPQNHSETAGNNNTHHQDTGEESASSGKLGLITNTIAGVA
 GLITGGRRTRREAIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYTEGLMHNQNGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: virion spike glycoprotein precursor [Zaire ebolavirus]
-- Accession: AAQ55048
-- Fasta sequence: >gi|33860544|gb|AAQ55048.1| virion spike glycoprotein precursor [Zaire ebolavirus]
+________________________________________________
+ * Definition: virion spike glycoprotein precursor [Zaire ebolavirus]
+ * Accession: AAQ55048
+ * Fasta sequence: >gi|33860544|gb|AAQ55048.1| virion spike glycoprotein precursor [Zaire ebolavirus]
 MGVTGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSEVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -69,10 +69,10 @@ PPATTAAGPPKAENTNTSKGTDLLDPATTTSPQNHSETAGNNNTHHQDTGEESASSGKLGLITNTIAGVA
 GLITGGRRARREAIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYTEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor [Ebola virus - Zaire (1995)] >gi|1695253|gb|AAB37095.1| virion spike glycoprotein [Zaire ebolavirus] >gi|436409393|gb|AGB56794.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|436409423|gb|AGB56821.1| virion spike glycoprotein precursor [Zaire ebolavirus]
-- Accession: P87666
-- Fasta sequence: >gi|8479503|sp|P87666.1|VGP_EBOZ5 RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor
+________________________________________________
+ * Definition: RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor [Ebola virus - Zaire (1995)] >gi|1695253|gb|AAB37095.1| virion spike glycoprotein [Zaire ebolavirus] >gi|436409393|gb|AGB56794.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|436409423|gb|AGB56821.1| virion spike glycoprotein precursor [Zaire ebolavirus]
+ * Accession: P87666
+ * Fasta sequence: >gi|8479503|sp|P87666.1|VGP_EBOZ5 RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor
 MGVTGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -83,10 +83,10 @@ PPATTAAGPLKAENTNTSKGTDLLDPATTTSPQNHSETAGNNNTHHQDTGEESASSGKLGLITNTIAGVA
 GLITGGRRARREAIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYTEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: virion spike glycoprotein precursor [Zaire ebolavirus]
-- Accession: AFH89483
-- Fasta sequence: >gi|384406808|gb|AFH89483.1| virion spike glycoprotein precursor [Zaire ebolavirus]
+________________________________________________
+ * Definition: virion spike glycoprotein precursor [Zaire ebolavirus]
+ * Accession: AFH89483
+ * Fasta sequence: >gi|384406808|gb|AFH89483.1| virion spike glycoprotein precursor [Zaire ebolavirus]
 MGVTGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSXVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -97,10 +97,10 @@ PPATTAAGPLKAENTNTSKGTDLLDPATTTSPQNHSETAGNNNTHHQDTGEESASSGKLGLITNTIAGVA
 GLITGGRRARREAIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYTEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: GP [Zaire ebolavirus]
-- Accession: AIO11753
-- Fasta sequence: >gi|685509621|gb|AIO11753.1| GP [Zaire ebolavirus]
+________________________________________________
+ * Definition: GP [Zaire ebolavirus]
+ * Accession: AIO11753
+ * Fasta sequence: >gi|685509621|gb|AIO11753.1| GP [Zaire ebolavirus]
 MGVTGILQLPRDRFKKTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -111,10 +111,10 @@ PPAMTAAGPPKAENTNTSKGTDLPDPATTTSPQNHSETAGNNNTHHQDTGEESASSGKLGLITNTIAGVA
 GLITGGRRTRREAIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYTEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: glycoproteine [Zaire ebolavirus] >gi|436409363|gb|AGB56767.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|436409383|gb|AGB56785.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|436409403|gb|AGB56803.1| virion spike glycoprotein precursor [Zaire ebolavirus]
-- Accession: AEK25495
-- Fasta sequence: >gi|339959397|gb|AEK25495.1| glycoproteine [Zaire ebolavirus]
+________________________________________________
+ * Definition: glycoproteine [Zaire ebolavirus] >gi|436409363|gb|AGB56767.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|436409383|gb|AGB56785.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|436409403|gb|AGB56803.1| virion spike glycoprotein precursor [Zaire ebolavirus]
+ * Accession: AEK25495
+ * Fasta sequence: >gi|339959397|gb|AEK25495.1| glycoproteine [Zaire ebolavirus]
 MGVTGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -125,10 +125,10 @@ PPATTAAGPLKAENTNTSKGTDLLDPATTTSPQNHSETAGNNNTHHQDTGEESASSGKLGLITNTIAGVA
 GLITGGRRTRREAIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYTEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor [Ebola virus - Gabon (1994-1997)] >gi|2138277|gb|AAC57989.1| virion spike glycoprotein [Zaire ebolavirus]
-- Accession: O11457
-- Fasta sequence: >gi|8479501|sp|O11457.1|VGP_EBOG4 RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor
+________________________________________________
+ * Definition: RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor [Ebola virus - Gabon (1994-1997)] >gi|2138277|gb|AAC57989.1| virion spike glycoprotein [Zaire ebolavirus]
+ * Accession: O11457
+ * Fasta sequence: >gi|8479501|sp|O11457.1|VGP_EBOG4 RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor
 MGVTGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -139,10 +139,10 @@ PPATTAAGPLKAENTNTSKGTDLLDPATTTSPQNHSETAGNNNTHHQDTGEESASSGKLGLITNTIAGVA
 GLITGGRRTRREAIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYIEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: surface glycoprotein [Zaire ebolavirus] >gi|355344237|gb|AER59718.1| surface glycoprotein [Zaire ebolavirus] >gi|436409273|gb|AGB56686.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|436409283|gb|AGB56695.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|436409293|gb|AGB56704.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|436409303|gb|AGB56713.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|436409313|gb|AGB56722.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|436409323|gb|AGB56731.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|436409333|gb|AGB56740.1| virion spike glycoprotein precursor [Zaire ebolavirus]
-- Accession: AER59712
-- Fasta sequence: >gi|355344230|gb|AER59712.1| surface glycoprotein [Zaire ebolavirus]
+________________________________________________
+ * Definition: surface glycoprotein [Zaire ebolavirus] >gi|355344237|gb|AER59718.1| surface glycoprotein [Zaire ebolavirus] >gi|436409273|gb|AGB56686.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|436409283|gb|AGB56695.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|436409293|gb|AGB56704.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|436409303|gb|AGB56713.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|436409313|gb|AGB56722.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|436409323|gb|AGB56731.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|436409333|gb|AGB56740.1| virion spike glycoprotein precursor [Zaire ebolavirus]
+ * Accession: AER59712
+ * Fasta sequence: >gi|355344230|gb|AER59712.1| surface glycoprotein [Zaire ebolavirus]
 MGVTGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -153,10 +153,10 @@ PPATTAAGHPKAENTNTSKSADSLDPATTTSPPNHSETAGNNNTHHQDTGEESASSGKLGLITNTIAGVA
 GLITGGRRTRREAIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYTEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: virion spike glycoprotein precursor [Zaire ebolavirus]
-- Accession: AGB56758
-- Fasta sequence: >gi|436409353|gb|AGB56758.1| virion spike glycoprotein precursor [Zaire ebolavirus]
+________________________________________________
+ * Definition: virion spike glycoprotein precursor [Zaire ebolavirus]
+ * Accession: AGB56758
+ * Fasta sequence: >gi|436409353|gb|AGB56758.1| virion spike glycoprotein precursor [Zaire ebolavirus]
 MGVTGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -167,10 +167,10 @@ PPATTAAGPLKAENTNTSKGTDLLDPATTTSPQNHSETAGNNNTHHQDTGEESASSGKLGLITNTIAGVA
 GLITGGRRTRREAIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYTEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: spike glycoprotein precursor [Zaire ebolavirus] >gi|436409373|gb|AGB56776.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|436409413|gb|AGB56812.1| virion spike glycoprotein precursor [Zaire ebolavirus]
-- Accession: AAL25818
-- Fasta sequence: >gi|16751328|gb|AAL25818.1| spike glycoprotein precursor [Zaire ebolavirus]
+________________________________________________
+ * Definition: spike glycoprotein precursor [Zaire ebolavirus] >gi|436409373|gb|AGB56776.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|436409413|gb|AGB56812.1| virion spike glycoprotein precursor [Zaire ebolavirus]
+ * Accession: AAL25818
+ * Fasta sequence: >gi|16751328|gb|AAL25818.1| spike glycoprotein precursor [Zaire ebolavirus]
 MGVTGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -181,10 +181,10 @@ PPATTAAGPLKAENTNTSKGTDLLDPATTTSPQNHSETAGNNNTHHQDTGEESTSSGKLGLITNTIAGVA
 GLITGGRRTRREAIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYTEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: virion spike glycoprotein precursor [Zaire ebolavirus]
-- Accession: AGB56830
-- Fasta sequence: >gi|436409433|gb|AGB56830.1| virion spike glycoprotein precursor [Zaire ebolavirus]
+________________________________________________
+ * Definition: virion spike glycoprotein precursor [Zaire ebolavirus]
+ * Accession: AGB56830
+ * Fasta sequence: >gi|436409433|gb|AGB56830.1| virion spike glycoprotein precursor [Zaire ebolavirus]
 MGITGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -195,10 +195,10 @@ PPATTAAGPPKAENINTSKSADSLDPATTTSPQNYSETAGNNNTHHQDTGEESAGSGKLGLIANTIAGVA
 GLITGGRRTRREAIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYTEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: GP1,2 [Zaire ebolavirus]
-- Accession: AIW47470
-- Fasta sequence: >gi|703773133|gb|AIW47470.1| GP1,2 [Zaire ebolavirus]
+________________________________________________
+ * Definition: GP1,2 [Zaire ebolavirus]
+ * Accession: AIW47470
+ * Fasta sequence: >gi|703773133|gb|AIW47470.1| GP1,2 [Zaire ebolavirus]
 MGVTGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -209,10 +209,10 @@ PPATTAAGPLKAENTNTSKSADSLDLATTTSPQNYSETAGNNNTHHQDTGEESASSGKLGLITNTIAGVA
 GLITGGRRTRREVIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYIEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: GP1,2 [Zaire ebolavirus]
-- Accession: AIW47454
-- Fasta sequence: >gi|703773107|gb|AIW47454.1| GP1,2 [Zaire ebolavirus]
+________________________________________________
+ * Definition: GP1,2 [Zaire ebolavirus]
+ * Accession: AIW47454
+ * Fasta sequence: >gi|703773107|gb|AIW47454.1| GP1,2 [Zaire ebolavirus]
 MGVTGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -223,10 +223,10 @@ PPATTAAGPLKAENTNTSKSADSLDLATTTSPQNYSETAGNNNTHHQDTGEESASSGKLGLITNTIAGVA
 GLITGGRRTRREVIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYIEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: virion spike glycoprotein precursor [Zaire ebolavirus] >gi|674810553|gb|AHX24658.2| virion spike glycoprotein precursor [Zaire ebolavirus]
-- Accession: AHX24649
-- Fasta sequence: >gi|674810550|gb|AHX24649.2| virion spike glycoprotein precursor [Zaire ebolavirus]
+________________________________________________
+ * Definition: virion spike glycoprotein precursor [Zaire ebolavirus] >gi|674810553|gb|AHX24658.2| virion spike glycoprotein precursor [Zaire ebolavirus]
+ * Accession: AHX24649
+ * Fasta sequence: >gi|674810550|gb|AHX24649.2| virion spike glycoprotein precursor [Zaire ebolavirus]
 MGVTGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -237,10 +237,10 @@ PPATTAAGPLKAENTNTSKSADSLDLATTTSPQNYSETAGNNNTHHQDTGEESASSGKLGLITNTIAGVA
 GLITGGRRTRREVIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYTEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: virion spike glycoprotein precursor [Zaire ebolavirus] >gi|661348609|gb|AIE11809.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|661348619|gb|AIE11818.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|661348629|gb|AIE11827.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|661348639|gb|AIE11836.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|661348649|gb|AIE11845.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|661348659|gb|AIE11854.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|661348669|gb|AIE11863.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|661348679|gb|AIE11872.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|661348689|gb|AIE11881.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|661348699|gb|AIE11890.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|661348709|gb|AIE11899.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|661348719|gb|AIE11908.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|661348729|gb|AIE11917.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852493|gb|AIG95887.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852504|gb|AIG95896.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852514|gb|AIG95905.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852525|gb|AIG95914.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852535|gb|AIG95923.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852546|gb|AIG95932.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852556|gb|AIG95941.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852566|gb|AIG95950.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852576|gb|AIG95959.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852586|gb|AIG95968.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852596|gb|AIG95977.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852608|gb|AIG95986.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852618|gb|AIG95995.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852629|gb|AIG96004.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852639|gb|AIG96013.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852650|gb|AIG96022.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852660|gb|AIG96031.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852670|gb|AIG96040.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852680|gb|AIG96049.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852690|gb|AIG96058.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852700|gb|AIG96067.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852710|gb|AIG96076.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852720|gb|AIG96085.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852730|gb|AIG96094.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852740|gb|AIG96103.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852751|gb|AIG96112.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852761|gb|AIG96121.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852771|gb|AIG96130.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852782|gb|AIG96139.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852792|gb|AIG96148.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852802|gb|AIG96157.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852813|gb|AIG96166.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852823|gb|AIG96175.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852834|gb|AIG96184.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852844|gb|AIG96193.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852855|gb|AIG96202.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852865|gb|AIG96211.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852876|gb|AIG96220.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852886|gb|AIG96229.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852897|gb|AIG96238.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852907|gb|AIG96247.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852918|gb|AIG96256.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852928|gb|AIG96265.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852938|gb|AIG96274.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852949|gb|AIG96283.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852961|gb|AIG96292.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852971|gb|AIG96301.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852982|gb|AIG96310.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852992|gb|AIG96319.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853003|gb|AIG96328.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853013|gb|AIG96337.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853024|gb|AIG96346.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853034|gb|AIG96355.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853045|gb|AIG96364.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853055|gb|AIG96373.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853066|gb|AIG96382.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853076|gb|AIG96391.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853086|gb|AIG96400.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853097|gb|AIG96409.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853107|gb|AIG96418.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853117|gb|AIG96427.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853128|gb|AIG96436.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853138|gb|AIG96445.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853149|gb|AIG96454.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853159|gb|AIG96463.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853170|gb|AIG96472.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853180|gb|AIG96481.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853190|gb|AIG96490.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853201|gb|AIG96499.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853211|gb|AIG96508.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853222|gb|AIG96517.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853232|gb|AIG96526.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853243|gb|AIG96535.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853253|gb|AIG96544.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853263|gb|AIG96553.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853274|gb|AIG96562.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853284|gb|AIG96571.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853295|gb|AIG96580.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853305|gb|AIG96589.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853315|gb|AIG96598.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853326|gb|AIG96607.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853336|gb|AIG96616.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853347|gb|AIG96625.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853357|gb|AIG96634.1| virion spike glycoprotein precursor [Zaire ebolavirus]
-- Accession: AIE11800
-- Fasta sequence: >gi|661348599|gb|AIE11800.1| virion spike glycoprotein precursor [Zaire ebolavirus]
+________________________________________________
+ * Definition: virion spike glycoprotein precursor [Zaire ebolavirus] >gi|661348609|gb|AIE11809.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|661348619|gb|AIE11818.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|661348629|gb|AIE11827.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|661348639|gb|AIE11836.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|661348649|gb|AIE11845.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|661348659|gb|AIE11854.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|661348669|gb|AIE11863.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|661348679|gb|AIE11872.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|661348689|gb|AIE11881.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|661348699|gb|AIE11890.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|661348709|gb|AIE11899.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|661348719|gb|AIE11908.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|661348729|gb|AIE11917.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852493|gb|AIG95887.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852504|gb|AIG95896.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852514|gb|AIG95905.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852525|gb|AIG95914.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852535|gb|AIG95923.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852546|gb|AIG95932.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852556|gb|AIG95941.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852566|gb|AIG95950.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852576|gb|AIG95959.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852586|gb|AIG95968.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852596|gb|AIG95977.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852608|gb|AIG95986.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852618|gb|AIG95995.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852629|gb|AIG96004.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852639|gb|AIG96013.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852650|gb|AIG96022.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852660|gb|AIG96031.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852670|gb|AIG96040.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852680|gb|AIG96049.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852690|gb|AIG96058.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852700|gb|AIG96067.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852710|gb|AIG96076.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852720|gb|AIG96085.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852730|gb|AIG96094.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852740|gb|AIG96103.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852751|gb|AIG96112.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852761|gb|AIG96121.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852771|gb|AIG96130.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852782|gb|AIG96139.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852792|gb|AIG96148.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852802|gb|AIG96157.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852813|gb|AIG96166.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852823|gb|AIG96175.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852834|gb|AIG96184.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852844|gb|AIG96193.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852855|gb|AIG96202.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852865|gb|AIG96211.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852876|gb|AIG96220.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852886|gb|AIG96229.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852897|gb|AIG96238.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852907|gb|AIG96247.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852918|gb|AIG96256.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852928|gb|AIG96265.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852938|gb|AIG96274.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852949|gb|AIG96283.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852961|gb|AIG96292.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852971|gb|AIG96301.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852982|gb|AIG96310.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667852992|gb|AIG96319.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853003|gb|AIG96328.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853013|gb|AIG96337.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853024|gb|AIG96346.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853034|gb|AIG96355.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853045|gb|AIG96364.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853055|gb|AIG96373.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853066|gb|AIG96382.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853076|gb|AIG96391.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853086|gb|AIG96400.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853097|gb|AIG96409.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853107|gb|AIG96418.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853117|gb|AIG96427.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853128|gb|AIG96436.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853138|gb|AIG96445.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853149|gb|AIG96454.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853159|gb|AIG96463.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853170|gb|AIG96472.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853180|gb|AIG96481.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853190|gb|AIG96490.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853201|gb|AIG96499.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853211|gb|AIG96508.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853222|gb|AIG96517.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853232|gb|AIG96526.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853243|gb|AIG96535.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853253|gb|AIG96544.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853263|gb|AIG96553.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853274|gb|AIG96562.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853284|gb|AIG96571.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853295|gb|AIG96580.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853305|gb|AIG96589.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853315|gb|AIG96598.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853326|gb|AIG96607.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853336|gb|AIG96616.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853347|gb|AIG96625.1| virion spike glycoprotein precursor [Zaire ebolavirus] >gi|667853357|gb|AIG96634.1| virion spike glycoprotein precursor [Zaire ebolavirus]
+ * Accession: AIE11800
+ * Fasta sequence: >gi|661348599|gb|AIE11800.1| virion spike glycoprotein precursor [Zaire ebolavirus]
 MGVTGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSVTKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -251,10 +251,10 @@ PPATTAAGPLKAENTNTSKSADSLDLATTTSPQNYSETAGNNNTHHQDTGEESASSGKLGLITNTIAGVA
 GLITGGRRTRREVIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYTEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: virion spike glycoprotein precursor [Zaire ebolavirus]
-- Accession: AHX24667
-- Fasta sequence: >gi|674810555|gb|AHX24667.2| virion spike glycoprotein precursor [Zaire ebolavirus]
+________________________________________________
+ * Definition: virion spike glycoprotein precursor [Zaire ebolavirus]
+ * Accession: AHX24667
+ * Fasta sequence: >gi|674810555|gb|AHX24667.2| virion spike glycoprotein precursor [Zaire ebolavirus]
 MGVTGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -265,10 +265,10 @@ PPATTAAGPLKAENTNTSKSADSLDLATTTSPQNYSETAGNNNTHHQDTGEESASSGKLGLITNTIAGVA
 GLITGGRRTRREVIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYTEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: spike glycoprotein precursor [Zaire ebolavirus]
-- Accession: ABW34740
-- Fasta sequence: >gi|158341860|gb|ABW34740.1| spike glycoprotein precursor [Zaire ebolavirus]
+________________________________________________
+ * Definition: spike glycoprotein precursor [Zaire ebolavirus]
+ * Accession: ABW34740
+ * Fasta sequence: >gi|158341860|gb|ABW34740.1| spike glycoprotein precursor [Zaire ebolavirus]
 MGITGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -279,10 +279,10 @@ PPATTAAGPPKAENINTSKSADSLDPATTTSPQNYSETAGNNNTHHQDTGEESAGSGKLGLITNTIAGVA
 GLITGGRRTRREAIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYTEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: GP1,2 [Zaire ebolavirus]
-- Accession: AIW47462
-- Fasta sequence: >gi|703773117|gb|AIW47462.1| GP1,2 [Zaire ebolavirus]
+________________________________________________
+ * Definition: GP1,2 [Zaire ebolavirus]
+ * Accession: AIW47462
+ * Fasta sequence: >gi|703773117|gb|AIW47462.1| GP1,2 [Zaire ebolavirus]
 MGVTGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -293,10 +293,10 @@ PPATTAAGPLKAENTNTSKSADSLDLATTTSPQNYSETAGNNNTHHQDTGEESASSGKLGLITNTIAGVA
 GLITGGRRTRREVIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYTEGLMHNQNGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: spike glycoprotein precursor [Zaire ebolavirus]
-- Accession: ABW34741
-- Fasta sequence: >gi|158341862|gb|ABW34741.1| spike glycoprotein precursor [Zaire ebolavirus]
+________________________________________________
+ * Definition: spike glycoprotein precursor [Zaire ebolavirus]
+ * Accession: ABW34741
+ * Fasta sequence: >gi|158341862|gb|ABW34741.1| spike glycoprotein precursor [Zaire ebolavirus]
 MGITGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -307,10 +307,10 @@ PPATTAAGPPKAENINTSKSADSLDPATTTSPQNYSXTAGNNNTHHQDTGEESAGSGKLGLIANTIAGVA
 GLITGGRRTRREAIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYTEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: spike glycoprotein precursor [Zaire ebolavirus]
-- Accession: ABW34743
-- Fasta sequence: >gi|158341866|gb|ABW34743.1| spike glycoprotein precursor [Zaire ebolavirus]
+________________________________________________
+ * Definition: spike glycoprotein precursor [Zaire ebolavirus]
+ * Accession: ABW34743
+ * Fasta sequence: >gi|158341866|gb|ABW34743.1| spike glycoprotein precursor [Zaire ebolavirus]
 MGITGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -321,10 +321,10 @@ PPATTAAGPPKAENINTSKSADSLDPATTTSPQNYSETAGNNNTHHQDTGEESAGSGKLGLITNTIAGVA
 GLITGGRRTRREAIVNAQPKCNPNLHYWTTQDEGAATGLAWIPYFGPAAEGIYTEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: spike glycoprotein precursor [Zaire ebolavirus]
-- Accession: ABW34742
-- Fasta sequence: >gi|158341864|gb|ABW34742.1| spike glycoprotein precursor [Zaire ebolavirus]
+________________________________________________
+ * Definition: spike glycoprotein precursor [Zaire ebolavirus]
+ * Accession: ABW34742
+ * Fasta sequence: >gi|158341864|gb|ABW34742.1| spike glycoprotein precursor [Zaire ebolavirus]
 MGITGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -335,10 +335,10 @@ PPATTAAGPPKAENINTSKSADSLDPATTTSPQNYSETAGNNNTHHQDTGEESAGSGKLGLITNTIAGVA
 GLITGGRRTRREAIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYTEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVL
-------------------------------------------------
-- Definition: spike glycoprotein precursor [Zaire ebolavirus]
-- Accession: ABW34739
-- Fasta sequence: >gi|158341858|gb|ABW34739.1| spike glycoprotein precursor [Zaire ebolavirus]
+________________________________________________
+ * Definition: spike glycoprotein precursor [Zaire ebolavirus]
+ * Accession: ABW34739
+ * Fasta sequence: >gi|158341858|gb|ABW34739.1| spike glycoprotein precursor [Zaire ebolavirus]
 MGITGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGIIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -349,10 +349,10 @@ PPATTAAGPPKAENINTSKSADSLDPATTTSPQNYSETAGNNNTHHQDTGEESAGSGKLGLIANTIAGVA
 GLITGGRRTRREAIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYTEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: spike glycoprotein precursor [Zaire ebolavirus]
-- Accession: ABW34738
-- Fasta sequence: >gi|158341856|gb|ABW34738.1| spike glycoprotein precursor [Zaire ebolavirus]
+________________________________________________
+ * Definition: spike glycoprotein precursor [Zaire ebolavirus]
+ * Accession: ABW34738
+ * Fasta sequence: >gi|158341856|gb|ABW34738.1| spike glycoprotein precursor [Zaire ebolavirus]
 MGITGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGIIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -363,10 +363,10 @@ PPATTAAGPPKAENINTSKSADSLDPATTTSPQNYSETAGNNNTHHQDTGEESAGSGKLGLITNTIAGVA
 GLITGGRRTRREAIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYTEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: virion spike glycoprotein precursor [Zaire ebolavirus]
-- Accession: AIW65950
-- Fasta sequence: >gi|712659287|gb|AIW65950.1| virion spike glycoprotein precursor [Zaire ebolavirus]
+________________________________________________
+ * Definition: virion spike glycoprotein precursor [Zaire ebolavirus]
+ * Accession: AIW65950
+ * Fasta sequence: >gi|712659287|gb|AIW65950.1| virion spike glycoprotein precursor [Zaire ebolavirus]
 MGVTGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSVTKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -377,10 +377,10 @@ PPATTAAGPLKAENTNTSKSADSLDLATTTSPQNYSETAGNNNTHHQDTGEESASSGKLGLITNTIAGVA
 GLITGGRRTRREVIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYTEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: virion spike glycoprotein precursor [Zaire ebolavirus]
-- Accession: AIE11926
-- Fasta sequence: >gi|661348739|gb|AIE11926.1| virion spike glycoprotein precursor [Zaire ebolavirus]
+________________________________________________
+ * Definition: virion spike glycoprotein precursor [Zaire ebolavirus]
+ * Accession: AIE11926
+ * Fasta sequence: >gi|661348739|gb|AIE11926.1| virion spike glycoprotein precursor [Zaire ebolavirus]
 MGVTGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVNDVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSVTKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -391,10 +391,10 @@ PPATTAAGPLKAENTNTSKSADSLDLATTTSPQNYSETAGNNNTHHQDTGEESASSGKLGLITNTIAGVA
 GLITGGRRTRREVIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYTEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: envelope glycoprotein [Zaire ebolavirus]
-- Accession: AAA96744
-- Fasta sequence: >gi|1141779|gb|AAA96744.1| envelope glycoprotein [Zaire ebolavirus]
+________________________________________________
+ * Definition: envelope glycoprotein [Zaire ebolavirus]
+ * Accession: AAA96744
+ * Fasta sequence: >gi|1141779|gb|AAA96744.1| envelope glycoprotein [Zaire ebolavirus]
 MGVTGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNL
 EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
 VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
@@ -405,10 +405,10 @@ PSATTAAGPPKAENTNTSKSTDFLDPATTTSPQNHSETAGNNNTHHQDTGEESASSGKLGLITNTIAGVA
 GLITGGRRTRREAIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYIEGLMHNQDGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
 VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
-------------------------------------------------
-- Definition: spike glycoprotein [Tai Forest ebolavirus] >gi|208436399|gb|ACI28632.1| spike glycoprotein precursor [Tai Forest ebolavirus]
-- Accession: YP_003815426
-- Fasta sequence: >gi|302315373|ref|YP_003815426.1| spike glycoprotein [Tai Forest ebolavirus]
+________________________________________________
+ * Definition: spike glycoprotein [Tai Forest ebolavirus] >gi|208436399|gb|ACI28632.1| spike glycoprotein precursor [Tai Forest ebolavirus]
+ * Accession: YP_003815426
+ * Fasta sequence: >gi|302315373|ref|YP_003815426.1| spike glycoprotein [Tai Forest ebolavirus]
 MGASGILQLPRERFRKTSFFVWVIILFHKVFSIPLGVVHNNTLQVSDIDKFVCRDKLSSTSQLKSVGLNL
 EGNGVATDVPTATKRWGFRAGVPPKVVNCEAGEWAENCYNLAIKKVDGSECLPEAPEGVRDFPRCRYVHK
 VSGTGPCPGGLAFHKEGAFFLYDRLASTIIYRGTTFAEGVIAFLILPKARKDFFQSPPLHEPANMTTDPS
@@ -419,10 +419,10 @@ LNPTSEPSSRGTGPSSPTVPNTTESHAELGKTTPTTLPEQHTAASAIPRAVHPDELSGPGFLTNTIRGVT
 NLLTGSRRKRRDVTPNTQPKCNPNLHYWTALDEGAAIGLAWIPYFGPAAEGIYTEGIMENQNGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPQDWTKNITDKIDQIIHDF
 VDNNLPNQNDGSNWWTGWKQWVPAGIGITGVIIAIIALLCICKFML
-------------------------------------------------
-- Definition: RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor [Tai Forest virus - Cote d'Ivoire, Cote d'Ivoire, 1994] >gi|1041218|gb|AAB37093.1| virion spike glycoprotein [Tai Forest ebolavirus]
-- Accession: Q66810
-- Fasta sequence: >gi|8479513|sp|Q66810.1|VGP_TAFVC RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor
+________________________________________________
+ * Definition: RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor [Tai Forest virus - Cote d'Ivoire, Cote d'Ivoire, 1994] >gi|1041218|gb|AAB37093.1| virion spike glycoprotein [Tai Forest ebolavirus]
+ * Accession: Q66810
+ * Fasta sequence: >gi|8479513|sp|Q66810.1|VGP_TAFVC RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor
 MGASGILQLPRERFRKTSFFVWVIILFHKVFSIPLGVVHNNTLQVSDIDKFVCRDKLSSTSQLKSVGLNL
 EGNGVATDVPTATKRWGFRAGVPPKVVNYEAGEWAENCYNLAIKKVDGSECLPEAPEGVRDFPRCRYVHK
 VSGTGPCPGGLAFHKEGAFFLYDRLASTIIYRGTTFAEGVIAFLILPKARKDFFQSPPLHEPANMTTDPS
@@ -433,10 +433,10 @@ LNPTSEPSSRGTGPSSPTVPNTTESHAELGKTTPTTLPEQHTAASAIPRAVHPDELSGPGFLTNTIRGVT
 NLLTGSRRKRRDVTPNTQPKCNPNLHYWTALDEGAAIGLAWIPYFGPAAEGIYTEGIMENQNGLICGLRQ
 LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPQDWTKNITDKIDQIIHDF
 VDNNLPNQNDGSNWWTGWKQWVPAGIGITGVIIAIIALLCICKFML
-------------------------------------------------
-- Definition: structural glycoprotein [Reston ebolavirus - Reston]
-- Accession: ACT22802
-- Fasta sequence: >gi|253317740|gb|ACT22802.1| structural glycoprotein [Reston ebolavirus - Reston]
+________________________________________________
+ * Definition: structural glycoprotein [Reston ebolavirus - Reston]
+ * Accession: ACT22802
+ * Fasta sequence: >gi|253317740|gb|ACT22802.1| structural glycoprotein [Reston ebolavirus - Reston]
 MGSGYQLLQLPRGRFRQTSLLVWVIILFQRAISMPLGIVTNSTLKATEIDQLVCRDKLSSTSQLKSVGLN
 LEGNGIATDVPSATKRWGFRSGVPPKVVSYEAGEWAENCYNLEIKKSDGSECLPLPPDGVRGFPRCRYVH
 KVQGTGPCPGDLAFHKNGAFFLYDRLASTVIYRGTTFAEGVVAFLILSEPKKHFWKATPAHEPVNTTDDS
@@ -447,10 +447,10 @@ GTINRPEMNPTQGPNNSAQSPQTKTTPAPTASPTTQDPQETTNSSKPGTSPGSTAEPSQPGFTTNTVSKV
 ADSVSTTRKQKRSIRQNTANKCNPDLHYWTAVDEGAAVGLAWIPYFGPAAEGIYIEGVMHNQNGLICGLR
 QLANETTQALQLFLRATTELRTYSLLNRKAIDFLLQRWGGTCRILGPSCCIEPHDWTKNITDEINQIKHD
 FIDNPLPDHGDDLNLWTGWRQWIPAGIGIIGVIIAIIALLCICKILC
-------------------------------------------------
-- Definition: structural glycoprotein [Reston ebolavirus - Reston]
-- Accession: ACT22794
-- Fasta sequence: >gi|253317731|gb|ACT22794.1| structural glycoprotein [Reston ebolavirus - Reston]
+________________________________________________
+ * Definition: structural glycoprotein [Reston ebolavirus - Reston]
+ * Accession: ACT22794
+ * Fasta sequence: >gi|253317731|gb|ACT22794.1| structural glycoprotein [Reston ebolavirus - Reston]
 MGSGYQLLQLPQGCFRKTSFFVWVIILFQRAISMPLGIVTNSTLRATEIDQLVCRDKLSSTSQLKSVGLN
 LEGNGIATDVLSATKRWGFRSGVPPKVVSYEAGEWAENCYNLEIKKLDGSECLPLPPDGVRGFPRCRYVH
 KVQGTGPCPGDLAFHKNGAFFLYDRLASTVIYRGTTFAEGVVAFLILSEPKKHFWKATPAHEPMNTTDDS
@@ -461,10 +461,10 @@ ETTDHPEMNLIQGPNNSAQSPQTKTTSAPTASPMTQDPQATVNSSKSGTSPGSAAEPSQPGLIINTVSEV
 AGSLSPTRKQKQSARQNTANKCNPDLHYWTAVDEGAAVGLAWIPYFGPAAEGIYIEGVMHNQNGLICGLR
 QLANETTQALQLFLRATTELRTYSLLNRKAIDFLLQRWGGTCRILGPSCCIEPHDWTKNITDEINQIRHD
 FIDNPLPNHGDDLILWTGWRQWIPAGIGIIGVIIAIIALLCICKILC
-------------------------------------------------
-- Definition: RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor [Reston ebolavirus - Reston (1989)] >gi|1041202|gb|AAC54885.1| virion spike glycoprotein [Reston ebolavirus] >gi|3253216|gb|AAC24346.1| virion spike glycoprotein precursor [Reston ebolavirus] >gi|55247459|gb|AAV48577.1| structural surface glycoprotein [Reston ebolavirus]
-- Accession: Q66799
-- Fasta sequence: >gi|8479511|sp|Q66799.1|VGP_EBORR RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor
+________________________________________________
+ * Definition: RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor [Reston ebolavirus - Reston (1989)] >gi|1041202|gb|AAC54885.1| virion spike glycoprotein [Reston ebolavirus] >gi|3253216|gb|AAC24346.1| virion spike glycoprotein precursor [Reston ebolavirus] >gi|55247459|gb|AAV48577.1| structural surface glycoprotein [Reston ebolavirus]
+ * Accession: Q66799
+ * Fasta sequence: >gi|8479511|sp|Q66799.1|VGP_EBORR RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor
 MGSGYQLLQLPRERFRKTSFLVWVIILFQRAISMPLGIVTNSTLKATEIDQLVCRDKLSSTSQLKSVGLN
 LEGNGIATDVPSATKRWGFRSGVPPKVVSYEAGEWAENCYNLEIKKSDGSECLPLPPDGVRGFPRCRYVH
 KVQGTGPCPGDLAFHKNGAFFLYDRLASTVIYRGTTFAEGVVAFLILSEPKKHFWKATPAHEPVNTTDDS
@@ -475,10 +475,10 @@ ETIYHSEMDPIQGSNNSAQSPQTKTTPAPTTSPMTQDPQETANSSKPGTSPGSAAGPSQPGLTINTVSKV
 ADSLSPTRKQKRSVRQNTANKCNPDLYYWTAVDEGAAVGLAWIPYFGPAAEGIYIEGVMHNQNGLICGLR
 QLANETTQALQLFLRATTELRTYSLLNRKAIDFLLQRWGGTCRILGPSCCIEPHDWTKNITDEINQIKHD
 FIDNPLPDHGDDLNLWTGWRQWIPAGIGIIGVIIAIIALLCICKILC
-------------------------------------------------
-- Definition: RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor [Reston ebolavirus - Siena/Philippine-92] >gi|1041208|gb|AAC54889.1| virion spike glycoprotein [Reston ebolavirus] >gi|1041211|gb|AAC54891.1| virion spike glycoprotein [Reston ebolavirus]
-- Accession: Q89853
-- Fasta sequence: >gi|8479518|sp|Q89853.1|VGP_EBORS RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor
+________________________________________________
+ * Definition: RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor [Reston ebolavirus - Siena/Philippine-92] >gi|1041208|gb|AAC54889.1| virion spike glycoprotein [Reston ebolavirus] >gi|1041211|gb|AAC54891.1| virion spike glycoprotein [Reston ebolavirus]
+ * Accession: Q89853
+ * Fasta sequence: >gi|8479518|sp|Q89853.1|VGP_EBORS RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor
 MGSGYQLLQLPRERFRKTSFLVWVIILFQRAISMPLGIVTNSTLKATEIDQLVCRDKLSSTSQLKSVGLN
 LEGNGIATDVPSATKRWGFRSGVPPKVVSYEAGEWAENCYNLEIKKSDGSECLPLPPDGVRGFPRCRYVH
 KVQGTGPCPGDLAFHKNGAFFLYDRLASTVIYRGTTFTEGVVAFLILSEPKKHFWKATPAHEPVNTTDDS
@@ -489,10 +489,10 @@ ETIDHSEMNPIQGSNNSAQSPQTKTTPAPTASPMTQDPQETANSSKLGTSPGSAAEPSQPGFTINTVSKV
 ADSLSPTRKQKRSVRQNTANKCNPDLHYWTAVDEGAAVGLAWIPYFGPAAEGIYIEGVMHNQNGLICGLR
 QLANETTQALQLFLRATTELRTYSLLNRKAIDFLLQRWGGTCRILGPSCCIEPHDWTKNITDEINQIKHD
 FIDNPLPDHGDDLNLWTGWRQWIPAGIGIIGVIIAIIALLCICKILC
-------------------------------------------------
-- Definition: structural glycoprotein [Reston ebolavirus] >gi|22671631|gb|AAN04455.1| structural glycoprotein [Reston ebolavirus]
-- Accession: NP_690583
-- Fasta sequence: >gi|22789230|ref|NP_690583.1| structural glycoprotein [Reston ebolavirus]
+________________________________________________
+ * Definition: structural glycoprotein [Reston ebolavirus] >gi|22671631|gb|AAN04455.1| structural glycoprotein [Reston ebolavirus]
+ * Accession: NP_690583
+ * Fasta sequence: >gi|22789230|ref|NP_690583.1| structural glycoprotein [Reston ebolavirus]
 MGSGYQLLQLPRERFRKTSFLVWVIILFQRAISMPLGIVTNSTLKATEIDQLVCRDKLSSTSQLKSVGLN
 LEGNGIATDVPSATKRWGFRSGVPPKVVSYEAGEWAENCYNLEIKKSDGSECLPLPPDGVRGFPRCRYVH
 KVQGTGPCPGDLAFHKNGAFFLYDRLASTVIYRGTTFAEGVVAFLILSEPKKHFWKATPAHEPVNTTDDS
@@ -503,10 +503,10 @@ ETIYHSEMDPIQGSNNSAQSPQTKTTPAPTTSPMTQDPQETANSSKPGTSPGSAAGPSQPGLTINTVSKV
 ADSLSPTRKQKRSVRQNTANKCNPDLYYWTAVDEGAAVGLAWIPYFGPAAEGIYIEGVMHNQNGLICGLR
 QLANETTQALQLFLRATTELRTYSLLNRKAIDFLLQRWGGTCRILGPSCCIEPHDWTKNITDEINQIKHD
 FIDNPLPDHGDDLNLWTGWRQWIPAGIGIIGVIIAIIALLCICKILC
-------------------------------------------------
-- Definition: structural glycoprotein [Reston ebolavirus - Reston] >gi|440385026|gb|AGC02890.1| structural glycoprotein [Reston ebolavirus] >gi|440385035|gb|AGC02898.1| structural glycoprotein [Reston ebolavirus]
-- Accession: ACT22787
-- Fasta sequence: >gi|253317723|gb|ACT22787.1| structural glycoprotein [Reston ebolavirus - Reston]
+________________________________________________
+ * Definition: structural glycoprotein [Reston ebolavirus - Reston] >gi|440385026|gb|AGC02890.1| structural glycoprotein [Reston ebolavirus] >gi|440385035|gb|AGC02898.1| structural glycoprotein [Reston ebolavirus]
+ * Accession: ACT22787
+ * Fasta sequence: >gi|253317723|gb|ACT22787.1| structural glycoprotein [Reston ebolavirus - Reston]
 MGSGYQLLQLPRERFRKTSFLVWAIILFQRAISMPLGIVTNSTLKATEIDQLVCRDKLSSTSQLKSVGLN
 LEGNGIATDVPSATKRWGFRSGVPPKVVSYEAGEWAENCYNLEIKKSDGSECLPPPPDGVRGFPRCRYVH
 KVQGTGPCPGDLAFHKNGAFFLYDRLASTVIYRGTTFAEGVIAFLILSEPRKHFWKATPAHEPVNTTDDS
@@ -517,10 +517,10 @@ ETIDHSEMNSIQGSNNSTQSPQTKTKPAPTASLMTLGPQETANSSKPGTSPGSAAEPSQPGLTINTVSKV
 ADSLSPTRKQKRSVRQNTANECNPDLHYWTAVDEGAAVGLAWIPYFGPAAEGIYIEGVMHNQNGLICGLR
 QLANETTQALQLFLRATTELRTYSLLNRKAIDFLLQRWGGTCRILGPSCCIEPHDWTKNITDEINQIKHD
 FIDNPLPDHGDDLNLWTGWRQWIPAGIGIIGVIIAITALLCICKILC
-------------------------------------------------
-- Definition: spike glycoprotein [Sudan ebolavirus] >gi|75559166|sp|Q7T9D9.1|VGP_EBOSU RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor [Sudan ebolavirus - Uganda (2000)] >gi|32815056|gb|AAP88031.1| structural glycoprotein [Sudan ebolavirus] >gi|38146045|gb|AAR11463.1| virion spike glycoprotein precursor [Sudan ebolavirus] >gi|52352974|gb|AAU43887.1| structural glycoprotein [Sudan ebolavirus]
-- Accession: YP_138523
-- Fasta sequence: >gi|55770812|ref|YP_138523.1| spike glycoprotein [Sudan ebolavirus]
+________________________________________________
+ * Definition: spike glycoprotein [Sudan ebolavirus] >gi|75559166|sp|Q7T9D9.1|VGP_EBOSU RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor [Sudan ebolavirus - Uganda (2000)] >gi|32815056|gb|AAP88031.1| structural glycoprotein [Sudan ebolavirus] >gi|38146045|gb|AAR11463.1| virion spike glycoprotein precursor [Sudan ebolavirus] >gi|52352974|gb|AAU43887.1| structural glycoprotein [Sudan ebolavirus]
+ * Accession: YP_138523
+ * Fasta sequence: >gi|55770812|ref|YP_138523.1| spike glycoprotein [Sudan ebolavirus]
 MGGLSLLQLPRDKFRKSSFFVWVIILFQKAFSMPLGVVTNSTLEVTEIDQLVCKDHLASTDQLKSVGLNL
 EGSGVSTDIPSATKRWGFRSGVPPKVVSYEAGEWAENCYNLEIKKPDGSECLPPPPDGVRGFPRCRYVHK
 AQGTGPCPGDYAFHKDGAFFLYDRLASTVIYRGVNFAEGVIAFLILAKPKETFLQSPPIREAVNYTENTS
@@ -531,10 +531,10 @@ PEAQTPTTHTSGPSVMATEEPTTPPGSSPGPTTEAPTLTTPENITTAVKTVLPQESTSNGLITSTVTGIL
 GSLGLRKRSRRQTNTKATGKCNPNLHYWTAQEQHNAAGIAWIPYFGPGAEGIYTEGLMHNQNALVCGLRQ
 LANETTQALQLFLRATTELRTYTILNRKAIDFLLRRWGGTCRILGPDCCIEPHDWTKNITDKINQIIHDF
 IDNPLPNQDNDDNWWTGWRQWIPAGIGITGIIIAIIALLCVCKLLC
-------------------------------------------------
-- Definition: glycoprotein [Sudan ebolavirus]
-- Accession: AGL50928
-- Fasta sequence: >gi|498541198|gb|AGL50928.1| glycoprotein [Sudan ebolavirus]
+________________________________________________
+ * Definition: glycoprotein [Sudan ebolavirus]
+ * Accession: AGL50928
+ * Fasta sequence: >gi|498541198|gb|AGL50928.1| glycoprotein [Sudan ebolavirus]
 MGGLSLLQLPRDKFRKSSFFVWVIILFQKAFSMPLGVVTNSTLEVTEIDQLVCKDHLASTDQLKSVGLNL
 EGSGVSTDIPSATKRWGFRSGVPPKVVSYEAGEWAENCYNLEIKKPDGSECLPPPPDGVRGFPRCRYVHK
 AQGTGPCPGDYAFHKDGAFFLYDRLASTVIYRGVNFAEGVIAFLILAKPKETFLQSPPIREAVNYTENTS
@@ -545,10 +545,10 @@ PEAQTPTTHTSGPSVMATEEPTTPPGSSPGSTTEAPTLTTPENITTAVKTVLPQESTSNGLITSTVTGIL
 GSLGLRKRSRRQTNTKATGKCNPNLHYWTAQEQHNAAGIAWIPYFGPGAEGIYTEGLMHNQNALVCGLRQ
 LANETTQALQLFLRATTELRTYTILNRKAIDFLLRRWGGTCRILGPDCCIEPHDWTKNITDKINQIIHDF
 IDNPLPNQDNDDNWWTGWRQWIPAGIGITGIIIAIIALLCVCKLLC
-------------------------------------------------
-- Definition: structural glycoprotein [Sudan ebolavirus - Nakisamata]
-- Accession: AFP28231
-- Fasta sequence: >gi|399151324|gb|AFP28231.1| structural glycoprotein [Sudan ebolavirus - Nakisamata]
+________________________________________________
+ * Definition: structural glycoprotein [Sudan ebolavirus - Nakisamata]
+ * Accession: AFP28231
+ * Fasta sequence: >gi|399151324|gb|AFP28231.1| structural glycoprotein [Sudan ebolavirus - Nakisamata]
 MGGLSLLQLPRDKFRKSSFFVWVIILFQKAFSMPLGVVTNSTLEVTEIDQLVCKDHLASTDQLKSVGLNL
 EGSGVSTDIPSATKRWGFRSGVPPKVVSYEAGEWAENCYNLEIKKPDGSECLPPPPDGVRGFPRCRYVHK
 AQGTGPCPGDYAFHKDGAFFLYDRLASTVIYRGVNFAEGVIAFLILAKPKETFLQSPPIREAVNYTENTS
@@ -559,10 +559,10 @@ PEAQTPTTHTSGPSVMATEEPTTPPGSSPGPTTEAPTLTTPENITTAVKTVLPQESTSNGLITSTVTGIL
 GSLGLRKRSRRQTNTKATGKCNPNLHYWTAQEQHNAAGIAWIPYFGPGAEGIYTEGLMHNQNALVCGLRQ
 LANETTQALQLFLRATTELRTYTILNRKAIDFLLRRWGGTCRILGPDCCIEPHDWTKNITDKINQIIHDF
 IDNPLPNQDNDDNWWTGWRQWIPAGIGITGIIIAIIALLCVCKLLC
-------------------------------------------------
-- Definition: RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor [Reston ebolavirus - Reston] >gi|15823612|dbj|BAB69006.1| virion spike glycoprotein precursor [Reston ebolavirus - Reston]
-- Accession: Q91DD8
-- Fasta sequence: >gi|81961763|sp|Q91DD8.1|VGP_EBORE RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor
+________________________________________________
+ * Definition: RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor [Reston ebolavirus - Reston] >gi|15823612|dbj|BAB69006.1| virion spike glycoprotein precursor [Reston ebolavirus - Reston]
+ * Accession: Q91DD8
+ * Fasta sequence: >gi|81961763|sp|Q91DD8.1|VGP_EBORE RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor
 MGSGYQLLQLPRERFRKTSFLVWVIILFQRAISMPLGIVTNSTLKATEIDQLVCRDKLSSTSQLKSVGLN
 LEGNGIATDVPSATKRWGFRSGVPPKVVSYEAGEWAENCYNLEIKKSDGSECLPLPPDGVRGFPRCRYVH
 KVQGTGPCPGDLAFHKNGAFFLYDRLASTVIYRGTTFAEGVIAFLILSEPKKHFWKATPAHEPVNTTDDS
@@ -573,10 +573,10 @@ ETIDHSEMNSIQGSNNSAQSPQTKATPAPTASPMTLDPQETANISKPGTSPGSAAGPSQPGLTINTISKV
 ADSLSPTRKQKRSVRQNTANKCNPDLHYWTAVDEGAAAGLAWIPYFGPAAEGIYIEGVMHNQNGLICGLR
 QLANETTQALQLFLRATTELRTYSLLNRKAIDFLLQRWGGTCRILGPSCCIEPHDWTKNITDEINQIKHD
 FIDNPLPDHGDDLNLWTGWRQWIPAGIGIIGVIIAIIALLCICKILC
-------------------------------------------------
-- Definition: glycoprotein [Sudan ebolavirus] >gi|499104209|gb|AGL73432.1| glycoprotein [Sudan ebolavirus] >gi|499104217|gb|AGL73439.1| glycoprotein [Sudan ebolavirus] >gi|499104225|gb|AGL73446.1| glycoprotein [Sudan ebolavirus]
-- Accession: AGL73425
-- Fasta sequence: >gi|499104201|gb|AGL73425.1| glycoprotein [Sudan ebolavirus]
+________________________________________________
+ * Definition: glycoprotein [Sudan ebolavirus] >gi|499104209|gb|AGL73432.1| glycoprotein [Sudan ebolavirus] >gi|499104217|gb|AGL73439.1| glycoprotein [Sudan ebolavirus] >gi|499104225|gb|AGL73446.1| glycoprotein [Sudan ebolavirus]
+ * Accession: AGL73425
+ * Fasta sequence: >gi|499104201|gb|AGL73425.1| glycoprotein [Sudan ebolavirus]
 MGGLSLLQLPRDKFRKSSFFVWVIILFQKAFSMPLGVVTNSTLEVTEIDQLVCKDHLASTDQLKSVGLNL
 EGSGVSTDIPSATKRWGFRSGVPPKVVSYEAGEWAENCYNLEIKKPDGSECLPPPPDGVRGFPRCRYVHK
 AQGTGPCPGDYAFHKDGAFFLYDRLASTVIYRGVNFAEGVIAFLILAKPKETFLQSPPIREAVNYTENTS
@@ -587,10 +587,10 @@ PEAQTPTTHTSGPSVMATEEPTTPPGSSPGPTTEAPTLTTPENITTAVKTVLPQESTSNGLITSTVTGIL
 GSLGLRKRSRRQTNTKATGKCNPNLHYWTAQEQHNAAGIAWIPYFGPGAEGIYTEGLMHNQNALVCGLRQ
 LANETTQALQLFLRATTELRTYTILNRKAIDFLLRRWGGTCRILGPDCCIEPHDWTKNITDKINQIIHDF
 IDNPLPNQDNDDNWWTGWRQWIPAGIGITGIIIAIIALLCVCKLLC
-------------------------------------------------
-- Definition: structural glycoprotein [Sudan ebolavirus]
-- Accession: ACR33190
-- Fasta sequence: >gi|237900825|gb|ACR33190.1| structural glycoprotein [Sudan ebolavirus]
+________________________________________________
+ * Definition: structural glycoprotein [Sudan ebolavirus]
+ * Accession: ACR33190
+ * Fasta sequence: >gi|237900825|gb|ACR33190.1| structural glycoprotein [Sudan ebolavirus]
 MEGLSLLQLPRDKFRKSSFFVWVIILFQKAFSMPLGVVTNSTLEVTEIDQLVCKDHLASTDQLKSVGLNL
 EGSGVSTDIPSATKRWGFRSGVPPKVFSYEAGEWAENCYNLEIKKPDGSECLPPPPDGVRGFPRCRYVHK
 AQGTGPCPGDYAFHKDGAFFLYDRLASTVIYRGVNFAEGVIAFLILAKPKETFLQSPPIREAVNYTENTS
@@ -601,10 +601,10 @@ PETQTSTTYTPKLPVMTTEESTTPPRNSPGSTTEAPTLTTPENITTAVKTVLPQESTSNGLITSTVTGIL
 GSLGLRKRSRRQVNTRATGKCNPNLHYWTAQEQHNAAGIAWIPYFGPGAEGIYTEGLMHNQNALVCGLRQ
 LANETTQALQLFLRATTELRTYTILNRKAIDFLLRRWGGTCRILGPDCCIEPHDWTKNITDKINQIIHDF
 IDNPLPNQDNDDNWWTGWRQWIPAGIGITGIIIAIIALLCVCKLLC
-------------------------------------------------
-- Definition: structural glycoprotein [Sudan ebolavirus]
-- Accession: AGB56678
-- Fasta sequence: >gi|436409264|gb|AGB56678.1| structural glycoprotein [Sudan ebolavirus]
+________________________________________________
+ * Definition: structural glycoprotein [Sudan ebolavirus]
+ * Accession: AGB56678
+ * Fasta sequence: >gi|436409264|gb|AGB56678.1| structural glycoprotein [Sudan ebolavirus]
 MEGLSLLQLPRDKFRKSSFFVWVIILFQKAFSMPLGVVTNSTLEVTEIDQLVCKDHLASTDQLKSVGLNL
 EGSGVSTDIPSATKRWGFRSGVPPKVVSYEAGEWAENCYNLEIKKPDGSECLPPPPDGVRGFPRCRYVHK
 AQGTGPCPGDYAFHKDGAFFLYDRLASTVIYRGVNFAEGVIAFLILAKPKETFLQSPPIREAVNYTENTS
@@ -615,10 +615,10 @@ PETQTSTTYTPKLPVMTTEEPTTPPRNSPGSTTEAPTLTTPENITTAVKTVLPQESTSNGLITSTVTGIL
 GSLGLRKRSRRQVNTRATGKCNPNLHYWTAQEQHNAAGIAWIPYFGPGAEGIYTEGLMHNQNALVCGLRQ
 LANETTQALQLFLRATTELRTYTILNRKAIDFLLRRWGGTCRILGPDCCIEPHDWTKNITDKINQIIHDF
 IDNPLPNQDNDDNWWTGWRQWIPAGIGITGIIIAIIALLCVCKLLC
-------------------------------------------------
-- Definition: RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor [Sudan ebolavirus - Maleo (1979)] >gi|1041199|gb|AAC54882.1| virion spike glycoprotein [Sudan ebolavirus]
-- Accession: Q66798
-- Fasta sequence: >gi|8479509|sp|Q66798.1|VGP_EBOSM RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor
+________________________________________________
+ * Definition: RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor [Sudan ebolavirus - Maleo (1979)] >gi|1041199|gb|AAC54882.1| virion spike glycoprotein [Sudan ebolavirus]
+ * Accession: Q66798
+ * Fasta sequence: >gi|8479509|sp|Q66798.1|VGP_EBOSM RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor
 MEGLSLLQLPRDKFRKSSFFVWVIILFQKAFSMPLGVVTNSTLEVTEIDQLVCKDHLASTDQLKSVGLNL
 EGSGVSTDIPSATKRWGFRSGVPPQVVSYEAGEWAENCYNLEIKKPDGSECLPPPPDGVRGFPRCRYVHK
 AQGTGPCPGDYAFHKDGAFFLYDRLASTVIYRGVNFAEGVIAFLILAKPKETFLQSPPIREAANYTENTS
@@ -629,10 +629,10 @@ PETQTSTTYTPKLPVMTTEEPTTPPRNSPGSTTEAPTLTTPENITTAVKTVWAQESTSNGLITSTVTGIL
 GSLGLRKRSRRQVNTRATGKCNPNLHYWTAQEQHNAAGIAWIPYFGPGAEGIYTEGLMHNQNALVCGLRQ
 LANETTQALQLFLRATTELRTYTILNRKAIDFLLRRWGGTCRILGPDCCIEPHDWTKNITDKINQIIHDF
 IDNPLPNQDNDDNWWTGWRQWIPAGIGITGIIIAIIALLCVCKLLC
-------------------------------------------------
-- Definition: structural glycoprotein [Sudan ebolavirus]
-- Accession: ABY75325
-- Fasta sequence: >gi|165940959|gb|ABY75325.1| structural glycoprotein [Sudan ebolavirus]
+________________________________________________
+ * Definition: structural glycoprotein [Sudan ebolavirus]
+ * Accession: ABY75325
+ * Fasta sequence: >gi|165940959|gb|ABY75325.1| structural glycoprotein [Sudan ebolavirus]
 MEGLSLLQLPRDKFRKSSFFVWVIILFQKAFSMPLGVVTNSTLEVTEIDQLVCKDHLASTDQLKSVGLNL
 EGSGVSTDIPSATKRWGFRSGVPPKVVSYEAGEWAENCYNLEIKKPDGSECLPPPPDGVRGFPRCRYVHK
 AQGTGPCPGDYAFHKDGAFFLYDRLASTVIYRGVNFAEGVIAFLILAKPKETFLQSPPIREAVNYTENTS
@@ -643,10 +643,10 @@ PETQTSTTYTPKLPVMTTEEPTTPPRNSPGSTTEAPTLTTPENITTAVKTVLPQESTSNGLITSTVTGIL
 GSLGLRKRSRRQVNTRATGKCNPNLHYWTAQEQHNAAGIAWIPYFGPGAEGIYTEGLMHNQNALVCGLRQ
 LANETTQALQLFLRATTELRTYTILNRKAIDFLLRRWGGTCRILGPDCCIEPHDWTKNITDKINQIIHDF
 IDNPLPNQDNDDNWWTGWRQWIPAGIGITGIIIAIIALLCVCKLLC
-------------------------------------------------
-- Definition: RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor [Sudan virus - Boniface, Sudan,1976] >gi|1041225|gb|AAB37096.1| virion spike glycoprotein precursor [Sudan ebolavirus]
-- Accession: Q66814
-- Fasta sequence: >gi|8479515|sp|Q66814.1|VGP_EBOSB RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor
+________________________________________________
+ * Definition: RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor [Sudan virus - Boniface, Sudan,1976] >gi|1041225|gb|AAB37096.1| virion spike glycoprotein precursor [Sudan ebolavirus]
+ * Accession: Q66814
+ * Fasta sequence: >gi|8479515|sp|Q66814.1|VGP_EBOSB RecName: Full=Envelope glycoprotein; AltName: Full=GP1,2; Short=GP; Contains: RecName: Full=GP1; Contains: RecName: Full=GP2; Contains: RecName: Full=GP2-delta; Flags: Precursor
 MEGLSLLQLPRDKFRKSSFFVWVIILFQKAFSMPLGVVTNSTLEVTEIDQLVCKDHLASTDQLKSVGLNL
 EGSGVSTDIPSATKRWGFRSGVPPQVVSYEAGEWAENCYNLEIKKPDGSECLPPPPDGVRGFPRCRYVHK
 AQGTGPCPGDYAFHKDGAFFLYDRLASTVIYRGVNFAEGVIAFLILAKPKETFLQSPPIREAANYTENTS
@@ -657,17 +657,17 @@ PETQTSTTYTPKLPVMTTEESTTPPRNSPGSTTEAPTLTTPENITTAVKTVWPQESTSNGLITSTVTGIL
 GSLGLRKRSRRQVNTRATGKCNPNLHYWTAQEQHNAAGIAWIPYFGPGAEGIYTEGLMHNQNALVCGLRQ
 LANETTQALQLFLRATTELRTYTILNRKAIDFLLRRWGGTCRILGPDCCIEPHDWTKNITDKINQIIHDF
 IDNPLPNQDNDDNWWTGWRQWIPAGIGITGIIIAIIALLCVCKLLC
-------------------------------------------------
-- Definition: Chain J, Crystal Structure Of Sudan Ebolavirus Glycoprotein (Strain Gulu) Bound To 16f6
-- Accession: 3S88_J
-- Fasta sequence: >gi|359545838|pdb|3S88|J Chain J, Crystal Structure Of Sudan Ebolavirus Glycoprotein (Strain Gulu) Bound To 16f6
+________________________________________________
+ * Definition: Chain J, Crystal Structure Of Sudan Ebolavirus Glycoprotein (Strain Gulu) Bound To 16f6
+ * Accession: 3S88_J
+ * Fasta sequence: >gi|359545838|pdb|3S88|J Chain J, Crystal Structure Of Sudan Ebolavirus Glycoprotein (Strain Gulu) Bound To 16f6
 PQESTSNGLITSTVTGILGSLGLRKRSRRQTNTKATGKCNPNLHYWTAQEQHNAAGIAWIPYFGPGAEGI
 YTEGLMHNQNALVCGLRQLANETTQALQLFLRATTELRTYTILNRKAIDFLLRRWGGTCRILGPDCCIEP
 HDWTKNITDKINQIIHDFVDNPLPNVD
-------------------------------------------------
-- Definition: Chain J, Crystal Structure Of Sudan Ebolavirus Glycoprotein (Strain Boniface) Bound To 16f6
-- Accession: 3VE0_J
-- Fasta sequence: >gi|384482403|pdb|3VE0|J Chain J, Crystal Structure Of Sudan Ebolavirus Glycoprotein (Strain Boniface) Bound To 16f6
+________________________________________________
+ * Definition: Chain J, Crystal Structure Of Sudan Ebolavirus Glycoprotein (Strain Boniface) Bound To 16f6
+ * Accession: 3VE0_J
+ * Fasta sequence: >gi|384482403|pdb|3VE0|J Chain J, Crystal Structure Of Sudan Ebolavirus Glycoprotein (Strain Boniface) Bound To 16f6
 PQESTSNGLITSTVTGILGSLGLRKRSRRQVNTRATGKCNPNLHYWTAQEQHNAAGIAWIPYFGPGAEGI
 YTEGLMHNQNALVCGLRQLANETTQALQLFLRATTELRTYTILNRKAIDFLLRRWGGTCRILGPDCCIEP
 HDWTKNITDKINQIIHDFIDNPLPNVD

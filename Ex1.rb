@@ -8,12 +8,12 @@ if ARGV.length != 1
   exit
 end
 
-entries = Bio::GenBank.open(ARGV[0])
+genebank_content = Bio::GenBank.open(ARGV[0])
 
 string_sequence = ''
 
-entries.each_entry do |entry|
-	string_sequence << entry.to_biosequence
+genebank_content.each_entry do |gc|
+	string_sequence << gc.to_biosequence
 end
 
 6.times do |frame|
