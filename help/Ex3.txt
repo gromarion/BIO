@@ -1,0 +1,5 @@
+Parado en la raíz del proyecto, ejecutar el siguiente comando:
+
+	ruby src/Ex3.rb XML_INPUT_FILE PATTERN_INPUT
+
+Donde XML_INPUT_FILE es por ejemplo ./input/74P14376014-Alignment.xml y PATTERN_INPUT por ejemplo ebolavirus.

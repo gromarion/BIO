@@ -1,0 +1,5 @@
+Parado en la raíz del proyecto, ejecutar el siguiente comando:
+
+	ruby src/Ex2.rb FASTA_INPUT_FILE
+
+Donde FASTA_INPUT_FILE es por ejemplo ./output/fasta_frame_1.fa.

@@ -1,0 +1,6 @@
+Parado en la raíz del proyecto, y suponiendo que en ella se encuentra el directorio EMBOSS-6-6.0, donde se encuentran los códigos binarios de EMBOSS, ejecutar los siguientes comandos:
+
+	EMBOSS-6.6.0/emboss/getorf -sequence GENEBANK_INPUT_FILE
+	EMBOSS-6.6.0/emboss/patmatmotifs FASTA_INPUT_FILE
+
+Donde GENEBANK_INPUT_FILE es por ejemplo ./input/npc1.gb y FASTA_INPUT_FILE por ejemplo ./output/fasta_frame_2.fa.

@@ -1,2 +1,0 @@
-EMBOSS-6.6.0/emboss/getorf -sequence ebola.gb
-EMBOSS-6.6.0/emboss/patmatmotifs fasta_frame_2.fa

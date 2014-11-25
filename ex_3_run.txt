@@ -1,1 +1,0 @@
-ruby Ex3.rb 74P14376014-Alignment.xml ebolavirus

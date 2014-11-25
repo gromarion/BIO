@@ -1,0 +1,5 @@
+Parado en la raíz del proyecto, ejecutar el siguiente comando:
+
+	ruby Ex1.rb GENEBANK_INPUT_FILE
+
+Donde GENEBANK_INPUT_FILE es por ejemplo ./input/npc1.gb.
